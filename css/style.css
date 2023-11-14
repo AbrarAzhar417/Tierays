@@ -63,10 +63,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #818491;
+  color: #ffffff;
   text-align: left;
-  background-color: #ffffff;
-}
+background-image: linear-gradient(to left bottom, #5c193f, #3f214a, #1f2547, #01243b, #00202a, #062d34, #133a3e, #214846, #30716d, #3f9d97, #4fcbc3, #5ffbf1);}
 
 [tabindex="-1"]:focus:not(:focus-visible) {
   outline: 0 !important;
